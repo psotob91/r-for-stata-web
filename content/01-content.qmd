@@ -1,0 +1,31 @@
+---
+title: "Sesión 01"
+date: "2023-01-18"
+---
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion1")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion1.html" title="Sesión 1"></iframe>
+```
+
+### Talleres
+
+- Puede descargar los archivos generados en la carpeta `taller01` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/19d4iF-_uEQCf3RW9FVFNPUedtC7nS01V?usp=sharing).
+
+
+:::
+
+

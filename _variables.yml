@@ -1,0 +1,33 @@
+author: Percy Soto-Becerra
+
+lang: es
+
+instructor:
+  name: Percy Soto-Becerra, M.D., M.Sc(c)
+  name_no_title: Percy Soto-Becerra
+  email: percys1991@gmail.com
+  url: "https://github.com/psotob91"
+  twitter: psotob91
+  github: psotob91
+  office: "Virtual: Google Meet"
+  contact_policy: >-
+    E-mail y Whatssap son las mejores formas de ponerse en contacto conmigo. Intentaré responder a todos los correos electrónicos relacionados con el curso y los mensajes dentro de las 24 horas (*de verdad*), pero también recuerde que la vida puede ser ajetreada y caótica para todos (¡incluido yo!), así que si no respondo enseguida, no te preocupes!
+  appointment_url: https://calendly.com/psotob91/15-minutos-de-reunion?back=1&month=2022-08
+
+course:
+  number: "RSTATA 2023"
+  semester: "Verano 2023"
+  days: "Miércoles y Sábado"
+  time: "Mie 7-10 pm / Sab 9-12 am"
+  location: "Google Meet"
+  dates: "18 de enero al 01 de febrero, 2023"
+  github: "https://github.com/psotob91/r-for-stata-web"
+  copyright_year: "2023"
+
+university:
+  name: InkaStats Academy
+  url: "https://inkastats-academy.com/"
+
+school:
+  name: Medical Branch
+  url: "https://inkastats-academy.com/"

@@ -1,0 +1,80 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!slides/"
+  resources:
+    - "files/"
+    - "slides/"
+# See https://quarto.org/docs/projects/code-execution.html#freeze
+execute:
+  freeze: auto  # Re-render only when source changes
+
+lang: es
+
+website:
+  title: "R para usuarios de Stata"
+  favicon: logo.png
+  twitter-card: true
+  site-url: https://r-insnsb.netlify.app
+  open-graph: true
+
+  navbar:
+    pinned: true
+    background: "#505DB1"
+    right:
+      - syllabus.qmd
+      - text: "Contenido"
+        file: content/index.qmd
+      - icon: cloud-fill
+        href: "https://inkastats-academy.com/courses/r-para-stata/"
+        aria-label: RStudio.cloud
+
+  sidebar:
+    - title: "Información general"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Información general"
+          contents:
+            - content/index.qmd
+        - section: "Contenido del curso"
+          contents:
+            - text: "0: Sesion 0"
+              file: content/00-content.qmd
+            - text: "1: Sesion 1"
+              file: content/01-content.qmd
+            - text: "2: Sesion 2"
+              file: content/02-content.qmd
+            - text: "3: Sesion 3"
+              file: content/03-content.qmd
+            - text: "4: Sesion 4"
+              file: content/04-content.qmd
+            - text: "5: Sesion 5"
+              file: content/05-content.qmd
+
+    - title: "Guías"
+      contents:
+          - resource/manual_installR/install.qmd
+  page-footer:
+    left: |
+      Contenido {{< fa brands creative-commons >}} {{< var course.copyright_year >}} por [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) para InkaStats Academy {{< fa registered >}} <br>
+      Todo el contenido está bajo {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Hecho con {{< fa brands r-project >}} y [Quarto](https://quarto.org/)<br>
+      [Ver el código fuente en {{< fa brands github >}} GitHub]({{< var course.github >}})
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+

@@ -1,0 +1,14 @@
+{
+  "hash": "ca0db00f872cb4564f1acc5655b8f68e",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 02\"\ndate: \"2023-01-21\"\n---\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Slides\n\n\n\n\n\n\n```{=html}\n<!-- <iframe width=\"780\" height=\"500\" src=\"../slides/sesion2.html\" title=\"Sesión 2\"></iframe> -->\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/18PHD4uNhXBJVKyLxfl6q9XoYx0ax9hXG?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
