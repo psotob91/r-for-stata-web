@@ -1,0 +1,14 @@
+{
+  "hash": "5d000e9879c52b5283a069c8a99f92f4",
+  "result": {
+    "markdown": "---\ntitle: Syllabus\n---\n\n\n\n\n::: {.grid .course-details .course-details-smaller}\n\n::: {.g-col-6}\n### Instructor\n\n- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})\n- {{< fa university >}} &nbsp; {{< var instructor.office >}}\n- {{< fa envelope >}} &nbsp; <a href=\"mailto:{{< var instructor.email >}}\">{{< var instructor.email >}}</a>\n- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})\n- {{< fa calendar-check >}} &nbsp; [Schedule an appointment]({{< var instructor.appointment_url >}})\n:::\n\n::: {.g-col-6}\n### Detalles del curso\n\n- {{< fa calendar >}} &nbsp; {{< var course.days >}}\n- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}\n- {{< fa clock >}} &nbsp; {{< var course.time >}}\n- {{< fa location-dot >}} &nbsp; {{< var course.location >}}\n:::\n\n:::\n\n## Presentación\n\nRepositorio de presentaciones de curso `R para Usuarios de Stata` disponible en el siguiente [enlace](https://inkastats-academy.com/courses/r-para-stata/).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

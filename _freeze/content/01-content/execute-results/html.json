@@ -1,0 +1,14 @@
+{
+  "hash": "f7bbd94f77fa0a7c7ae2e4316818bb75",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 01\"\ndate: \"2023-01-18\"\n---\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion1.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion1.html\" title=\"Sesión 1\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller01` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/19d4iF-_uEQCf3RW9FVFNPUedtC7nS01V?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
