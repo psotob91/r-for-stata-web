@@ -1,8 +1,10 @@
 {
-  "hash": "ca0db00f872cb4564f1acc5655b8f68e",
+  "hash": "9066e76388be8ea21cf7437d304fff76",
   "result": {
-    "markdown": "---\ntitle: \"Sesión 02\"\ndate: \"2023-01-21\"\n---\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Slides\n\n\n\n\n\n\n```{=html}\n<!-- <iframe width=\"780\" height=\"500\" src=\"../slides/sesion2.html\" title=\"Sesión 2\"></iframe> -->\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/18PHD4uNhXBJVKyLxfl6q9XoYx0ax9hXG?usp=sharing).\n\n\n:::\n\n\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Sesión 02\"\ndate: \"2023-01-21\"\n---\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion2.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion2.html\" title=\"Sesión 2\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/18PHD4uNhXBJVKyLxfl6q9XoYx0ax9hXG?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [
+      "02-content_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

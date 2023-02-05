@@ -3,3 +3,29 @@ title: "Sesión 04"
 date: "2022-01-28"
 ---
 
+## Materiales
+
+::: {.panel-tabset}
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion4")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion4.html" title="Sesión 2"></iframe>
+```
+
+### Talleres
+
+- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/18PHD4uNhXBJVKyLxfl6q9XoYx0ax9hXG?usp=sharing).
+
+
+:::
+
+
