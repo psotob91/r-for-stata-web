@@ -29,7 +29,7 @@ slide_buttons("/slides/sesion2")
 
 ### Talleres
 
-- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/18PHD4uNhXBJVKyLxfl6q9XoYx0ax9hXG?usp=sharing).
+- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1ARE2EPgDGBdf6CWdbPOMZmnxEXJ8YGmk?usp=share_link).
 
 
 :::
